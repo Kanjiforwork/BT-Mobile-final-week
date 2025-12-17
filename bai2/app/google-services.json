@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "128570776126",
+    "firebase_url": "https://homework-f9a6c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "homework-f9a6c",
+    "storage_bucket": "homework-f9a6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128570776126:android:586437351e8f29e5014f6f",
+        "android_client_info": {
+          "package_name": "com.example.bai2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvoBoEh9J8BzvzhQUgnYIqlzpRyVhUz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128570776126:android:17c71bf3c9feecd4014f6f",
+        "android_client_info": {
+          "package_name": "com.example.btfinalweek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvoBoEh9J8BzvzhQUgnYIqlzpRyVhUz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
